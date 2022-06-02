@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gabrielVolponi
 - 👀 I’m interested in Testing Automation 
 - 🌱 I’m currently learning JavaScript, HTML, CSS, Cypress.io
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Please feel free to test and contribute to my repositories
 - 📫 How to reach me (https://www.linkedin.com/in/gabriel-volponi-a11720215/)
 
 <!---
